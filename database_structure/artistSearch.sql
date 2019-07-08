@@ -1,0 +1,1 @@
+SELECT position, artist, song, year FROM top5000 WHERE artist LIKE ?

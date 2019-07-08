@@ -1,0 +1,1 @@
+SELECT artist FROM top5000 GROUP BY artist HAVING count(*) > 1

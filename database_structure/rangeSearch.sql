@@ -1,0 +1,1 @@
+SELECT position,song,artist,year FROM top5000 WHERE position BETWEEN ? AND ?
