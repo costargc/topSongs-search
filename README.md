@@ -1,5 +1,7 @@
 # Top Songs Search NODE app#
 
+This is a simple use of an AWS RDS database with MYSQL in node.
+
 ![Screenshot](images/search-song_gif.gif)
 
 * In order to use this you should create a .env file with your database details:
